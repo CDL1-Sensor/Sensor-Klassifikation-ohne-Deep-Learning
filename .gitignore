@@ -248,5 +248,7 @@ $RECYCLE.BIN/
 *.lnk
 
 config.py
+ML-Modelle-for-FHNW-CPU.ipynb
+
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,windows,jupyternotebooks,python

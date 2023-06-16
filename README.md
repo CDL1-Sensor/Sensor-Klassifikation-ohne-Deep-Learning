@@ -1,4 +1,4 @@
-# Klassifikation ohne Deep Learning
+# [Klassifikation ohne Deep Learning](https://github.com/CDL1-Sensor/Sensor-Klassifikation-ohne-Deep-Learning/blob/main/ML-Modelle.ipynb)
 Abgabetermin: 16. Juni 2023  
 In diesem Repository erfolgt die Klassifizierung der Sensordaten ohne Deep Learning Modellen.
 
